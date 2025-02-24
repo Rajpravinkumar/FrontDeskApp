@@ -1,0 +1,20 @@
+{
+  "name": "frontdeskapp",
+  "version": "1.0.0",
+  "description": "It is a front desk application fpr managing customer services.",
+  "homepage": "https://github.com/Rajpravinkumar/FrontDeskApp#readme",
+  "bugs": {
+    "url": "https://github.com/Rajpravinkumar/FrontDeskApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajpravinkumar/FrontDeskApp.git"
+  },
+  "license": "ISC",
+  "author": "Raj",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
